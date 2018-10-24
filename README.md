@@ -18,12 +18,7 @@ Anaconda is a free package manager, environment manager, and Python distribution
 
 ## Datasets
 
-This tutorial uses three datasets. Two of the three datasets can be found in the "datasets" folder. The third dataset can be downloaded from the following Kaggle link:
-
-**[Gun Violence In America](https://www.kaggle.com/jameslko/gun-violence-data)**
-
-Once downloaded, rename the file to "gun_violence.csv" and place it in the "datasets" folder.
-
+This tutorial uses the Census Income dataset from the UCI Machine Learning Respository. This dataset has been already been added to the "dataset" folder.
 
 ## Your Instructional Team
 
@@ -32,3 +27,7 @@ Once downloaded, rename the file to "gun_violence.csv" and place it in the "data
 - Sian Lewis (Lewis_Sian@bah.com)
 
 **Facilitators**:
+- Sherika Sylvester (Sylvester_Sherika@bah.com)
+- Carver Sorensen (Sorensen_Carver@bah.com)
+- Sharanya Venkataraman (Venkataraman_Sharanya@bah.com)
+- Marissa Wiener (Wiener_Marissa@bah.com)
