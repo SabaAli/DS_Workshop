@@ -1,4 +1,4 @@
-# Data Data Science & Machine Learning Tutorial
+# Data Science & Machine Learning Tutorial
 Welcome to DCFemTech's Tour de Code Data Science & Machine Learning Tutorial hosted by Booz Allen Hamilton's Women in Data Science.
 
 
