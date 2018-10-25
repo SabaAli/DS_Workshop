@@ -34,7 +34,7 @@ This tutorial uses the Census Income dataset from the UCI Machine Learning Respo
 
 **Instructors**:
 - Saba Ali (Ali_Saba@bah.com)
-- Sian Lewis (Lewis_Sian@bah.com)
+- Sian Lewis (Lewis_Sian@bah.com) - Do the Hackathon for Hiring on 11/17/2018 at http://bit.ly/hack4hiring
 
 **Facilitators**:
 - Sherika Sylvester (Sylvester_Sherika@bah.com)
