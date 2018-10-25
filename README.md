@@ -41,4 +41,5 @@ This tutorial uses the Census Income dataset from the UCI Machine Learning Respo
 - Sharanya Venkataraman (Venkataraman_Sharanya@bah.com)
 - Marissa Wiener (Wiener_Marissa@bah.com)
 
+## Data Science Process
 ![](https://www.kdnuggets.com/wp-content/uploads/data-science-process.jpg)
