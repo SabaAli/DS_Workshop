@@ -38,6 +38,7 @@ This tutorial uses the Census Income dataset from the UCI Machine Learning Respo
 
 **Facilitators**:
 - Sherika Sylvester (Sylvester_Sherika@bah.com)
-- Carver Sorensen (Sorensen_Carver@bah.com)
 - Sharanya Venkataraman (Venkataraman_Sharanya@bah.com)
 - Marissa Wiener (Wiener_Marissa@bah.com)
+
+![Drag Racing](data-science-process.jpg)
